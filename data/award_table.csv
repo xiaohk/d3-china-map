@@ -1,0 +1,634 @@
+city,award,school,name
+beijing,Dean's List,School of Education,Nanxi Ai
+taiyuan,Dean's List,College of Agricultural and Life Sciences,Avery Ao
+beijing,Dean's Honor List,College of Engineering,Tony Bai
+beijing,Dean's List,College of Letters & Science,Yuchen Bai
+jinan,Dean's List,School of Business,Xinya Bi
+nanjing,Dean's Honor List,College of Engineering,Weijia Bian
+beijing,Dean's List,College of Letters & Science,Chenyu Bu
+chengdu,Dean's List,College of Letters & Science,Hanyu Cai
+xiamen,Dean's List,College of Letters & Science,James Cai
+foshan,Dean's Honor List,School of Human Ecology,Jiahong Cai
+wuhan,Dean's List,College of Letters & Science,Luanda Cai
+beijing,Dean's List,College of Letters & Science,Ruoyi Cai
+beijing,Dean's Honor List,College of Engineering,Tong Cai
+kaifeng,Dean's Honor List,School of Human Ecology,Yi Cai
+chengdu,Dean's List,College of Agricultural and Life Sciences,Miao Cao
+suzhou,Dean's List,College of Letters & Science,Weijia Cao
+taiyuan,Dean's List,College of Letters & Science,Xinran Cao
+shanghai,Dean's List,College of Letters & Science,Tianhao Chai
+tangshan,Dean's High Honors,School of Human Ecology,ZHIHAN Chang
+hangzhou,Dean's List,College of Letters & Science,Yongnan Che
+xiamen,Dean's List,College of Letters & Science,Bojian Chen
+hangzhou,Dean's List,College of Letters & Science,Chili Chen
+ningbo,Dean's Honor List,College of Engineering,Hanbing Chen
+shenzhen,Dean's List,College of Letters & Science,Haocheng Chen
+beijing,Dean's List,College of Letters & Science,Haoming Chen
+beijing,Dean's Honor List,College of Engineering,Hongrui Chen
+nanning,Dean's List,College of Letters & Science,Jack Chen
+hangzhou,Dean's Honor List,College of Engineering,Jiong Chen
+zhuhai,Dean's List,College of Letters & Science,Junda Chen
+chengdu,Dean's Honor List,College of Engineering,Junzhou Chen
+wuhan,Dean's List,College of Letters & Science,Kexin Chen
+ningbo,Dean's List,College of Letters & Science,Luke Chen
+shanghai,Dean's Honor List,School of Human Ecology,Peiru Chen
+shanghai,Dean's List,College of Letters & Science,Shirui Chen
+fuzhou,Dean's List,College of Letters & Science,Taijing Chen
+beijing,Dean's High Honors,School of Human Ecology,Wei Chen
+xiamen,Dean's Honor List,College of Engineering,Xuanqi Chen
+beijing,Dean's List,School of Education,Yuheng Chen
+guangzhou,Dean's Honor List,College of Engineering,Yuhua Chen
+beijing,Dean's Honor List,College of Engineering,Zhengyi Chen
+beijing,Dean's Honor List,College of Engineering,Zihao Chen
+wuhan,Dean's List,College of Letters & Science,Ziqi Chen
+beijing,Dean's Honor List,College of Engineering,Jason Cheng
+shangrao,Dean's List,College of Letters & Science,Yu Cheng
+shanghai,Dean's List,College of Agricultural and Life Sciences,Keeley Choy
+qingdao,Dean's High Honors,School of Human Ecology,Qi Chu
+beijing,Dean's List,College of Letters & Science,Tianshu Chu
+beijing,Dean's List,College of Letters & Science,Zhaoqing Cui
+guangzhou,Dean's Honor List,College of Engineering,Vivian Dai
+beijing,Dean's List,College of Letters & Science,Weidi Dai
+xian,Dean's List,College of Letters & Science,Yiye Dang
+yangzhou,Dean's List,School of Business,Chengsu Deng
+kunming,Dean's List,College of Agricultural and Life Sciences,Linchen Deng
+wuhan,Dean's Honor List,College of Engineering,Shane Deng
+liaocheng,Dean's List,School of Education,Guangzhi Ding
+beijing,Dean's List,College of Letters & Science,Siqin Ding
+qingdao,Dean's List,College of Letters & Science,Wilson Ding
+qingdao,Dean's List,College of Letters & Science,Zhanhao Ding
+chongqing,Dean's List,College of Letters & Science,Zhiyue Ding
+suzhou,Dean's List,College of Letters & Science,Beixi Dong
+beijing,Dean's Honor List,School of Human Ecology,Eunice Dong
+daqing,Dean's Honor List,College of Engineering,Katy Dong
+shanghai,Dean's List,College of Letters & Science,Yu Dong
+shanghai,Dean's Honor List,College of Engineering,Yunjian Dong
+shenzhen,Dean's Honor List,School of Human Ecology,Chenghui Du
+beijing,Dean's List,College of Agricultural and Life Sciences,Yulin Du
+shenyang,Dean's List,College of Letters & Science,Jingqi Duan
+dalian,Dean's List,College of Letters & Science,Yuqi Duan
+harbin,Dean's List,College of Letters & Science,Ge Dun
+shanghai,Dean's List,School of Education,Monica Fan
+hefei,Dean's Honor List,College of Engineering,XAVIER Fan
+taiyuan,Dean's List,College of Letters & Science,Zezhong Fan
+shanghai,Dean's High Honors,School of Human Ecology,Lei Fang
+guangzhou,Dean's Honor List,College of Engineering,Cloris Feng
+jinan,Dean's Honor List,School of Human Ecology,RUIWEN Feng
+shijiazhuang,Dean's List,College of Letters & Science,Yatong Feng
+taiyuan,Dean's List,School of Business,Shay Fu
+beijing,Dean's List,College of Letters & Science,Yixian Gan
+changzhou,Dean's Honor List,College of Engineering,Amber Gao
+hohhot,Dean's List,College of Letters & Science,Chang Gao
+guiyang,Dean's List,College of Letters & Science,Dasong Gao
+guangzhou,Dean's List,College of Letters & Science,Lynette Gao
+jinan,Dean's List,College of Letters & Science,Runxin Gao
+beijing,Dean's List,College of Agricultural and Life Sciences,Shimeng Gao
+xi,Dean's List,College of Letters & Science,Shirley Gao
+zhuhai,Dean's List,College of Letters & Science,Yuanzuo Gao
+beijing,Dean's List,College of Letters & Science,Yumeng Gao
+hangzhou,Dean's List,College of Letters & Science,Xuanxuan Ge
+yangzhong,Dean's List,College of Letters & Science,Han Geng
+qingdao,Dean's List,College of Letters & Science,Xinyi Geng
+shanghai,Dean's Honor List,College of Engineering,Donald Gu
+nanjing,Dean's List,School of Business,Hanji Gu
+nanjing,Dean's Honor List,College of Engineering,Hongyi Gu
+nanjing,Dean's List,College of Letters & Science,Xue Gu
+shijiazhuang,Dean's List,College of Letters & Science,Yuzhe Gu
+urumqi,Dean's List,College of Agricultural and Life Sciences,Wenxin Guan
+jinan,Dean's Honor List,College of Engineering,Jinyuxuan Guo
+shanghai,Dean's List,College of Letters & Science,Maggie Guo
+xiangtan,Dean's Honor List,College of Engineering,Ruite Guo
+tianjin,Dean's List,College of Letters & Science,Tianyuan Guo
+shenyang,Dean's List,College of Letters & Science,Xinran Guo
+zhengzhou,Dean's List,College of Letters & Science,Zhihan Guo
+yangzhou,Dean's List,School of Education,Tongzhou Han
+ningbo,Dean's List,College of Letters & Science,Weber Han
+shanghai,Dean's Honor List,College of Engineering,Yi Xin Han
+weifang,Dean's List,College of Letters & Science,Yingxin Han
+ningbo,Dean's List,College of Letters & Science,Yiqin Han
+tianjin,Dean's List,College of Letters & Science,Youmin Han
+beijing,Dean's List,College of Letters & Science,Wei Hao
+guangzhou,Dean's Honor List,College of Engineering,Wu Hao
+changchun,Dean's Honor List,College of Engineering,Yexuan Hao
+handan,Dean's List,College of Letters & Science,Yijin Hao
+beijing,Dean's List,College of Letters & Science,Zhikang Hao
+wuhan,Dean's List,College of Letters & Science,Alice He
+shanghai,Dean's Honor List,College of Engineering,Dong He
+beijing,Dean's List,School of Education,Kedi He
+fuzhou,Dean's List,College of Letters & Science,Ruoyu He
+beijing,Dean's Honor List,College of Engineering,Shuo He
+nanjing,Dean's List,College of Letters & Science,Songyanxin He
+dalian,Dean's Honor List,College of Engineering,Tiger He
+shenzhen,Dean's Honor List,College of Engineering,Wei He
+fuzhou,Dean's Honor List,College of Engineering,Xiao He
+beijing,Dean's List,College of Letters & Science,Xu He
+beijing,Dean's List,College of Agricultural and Life Sciences,Xueyang He
+shaoxing,Dean's Honor List,College of Engineering,Yifeng He
+beijing,Dean's List,College of Letters & Science,Yuxin He
+maanshan,Dean's List,College of Letters & Science,FIONA Hou
+xi,Dean's Honor List,College of Engineering,Shuaikun Hou
+shanghai,Dean's List,College of Letters & Science,Ching-Yi Hsu
+beijing,Dean's List,College of Letters & Science,Baiying Hu
+shanghai,Dean's List,College of Agricultural and Life Sciences,Clara Hu
+jiaxing,Dean's List,College of Letters & Science,Echo Hu
+chengdu,Dean's List,College of Letters & Science,Elaine Hu
+wuxi,Dean's List,College of Agricultural and Life Sciences,LINGFENG Hu
+taiyuan,Dean's List,College of Letters & Science,Shengrong Hu
+chengdu,Dean's List,School of Education,Shuang Hu
+beijing,Dean's List,College of Letters & Science,Wenzhe Hu
+beijing,Dean's List,College of Letters & Science,Xinyang Hu
+hangzhou,Dean's List,College of Agricultural and Life Sciences,Yi Hu
+shanghai,Dean's List,School of Business,Yucheng Hu
+wuhan,Dean's Honor List,School of Human Ecology,Bobby Huang
+ningbo,Dean's List,College of Letters & Science,Elaine Huang
+guangzhou,Dean's Honor List,College of Engineering,Kylie Huang
+shanghai,Dean's Honor List,School of Human Ecology,Yifan Huang
+shanghai,Dean's High Honors,School of Human Ecology,Yuankun Huang
+shanghai,Dean's List,College of Letters & Science,Zachary Huang
+beijing,Dean's List,College of Letters & Science,Zhe Huang
+suzhou,Dean's List,College of Letters & Science,Zhichun Huang
+beijing,Dean's List,College of Letters & Science,Zitong Huang
+guangzhou,Dean's List,School of Education,Ziyao Huang
+chengdu,Dean's Honor List,College of Engineering,Siyuan Ji
+wuxi,Dean's Honor List,College of Engineering,Dayuan Jian
+nanjing,Dean's List,School of Business,Bingying Jiang
+guangzhou,Dean's List,College of Agricultural and Life Sciences,Meike Jiang
+beijing,Dean's List,College of Letters & Science,Miaoran Jiang
+jinan,Dean's List,College of Letters & Science,Qinjun Jiang
+jinan,Dean's List,College of Letters & Science,Weiran Jiang
+beijing,Dean's List,College of Letters & Science,Wenhao Jiang
+beijing,Dean's List,College of Agricultural and Life Sciences,Xueqi Jiang
+changchun,Dean's List,College of Agricultural and Life Sciences,Yao Jiang
+suzhou,Dean's List,College of Letters & Science,Yuezheng Jiang
+xiamen,Dean's High Honors,School of Human Ecology,Yuqi Jiang
+guangzhou,Dean's Honor List,School of Human Ecology,Ziyuan Jiang
+beijing,Dean's List,College of Letters & Science,Susan Jiao
+beijing,Dean's List,College of Letters & Science,Haonan Jin
+shanghai,Dean's Honor List,College of Engineering,Herry Jin
+shizuishan,Dean's List,College of Letters & Science,Li Jin
+baotou,Dean's Honor List,College of Engineering,Qing Jin
+beijing,Dean's List,School of Education,Jessie Ju
+tianjin,Dean's List,College of Letters & Science,STEVEN Kan
+ningbo,Dean's Honor List,School of Human Ecology,Yule Kang
+dalian,Dean's List,College of Letters & Science,Yuzhuo Kang
+guangzhou,Dean's List,College of Letters & Science,Carol Ke
+beijing,Dean's List,College of Letters & Science,Siqi Kong
+shanghai,Dean's List,College of Letters & Science,Colin Kou
+shenyang,Dean's List,College of Letters & Science,Jerry Kou
+leshan,Dean's List,College of Letters & Science,Yi Kuang
+liaoyang,Dean's Honor List,College of Engineering,Runheng Lei
+beijing,Dean's List,School of Business,Aiqi Li
+xuzhou,Dean's List,School of Education,Bing Li
+weifang,Dean's Honor List,College of Engineering,Bingshu Li
+tianjin,Dean's List,College of Letters & Science,Bochao Li
+baoding,Dean's List,College of Letters & Science,Caroline Li
+zhengzhou,Dean's List,College of Letters & Science,Craig Li
+chongqing,Dean's Honor List,College of Engineering,Cruz Li
+qingdao,Dean's List,College of Letters & Science,Curtis Li
+beijing,Dean's List,College of Letters & Science,Cynthia Li
+shenyang,Dean's List,College of Letters & Science,Dingyi Li
+tianjin,Dean's Honor List,College of Engineering,Guanzhao Li
+beijing,Dean's List,College of Letters & Science,Haoran Li
+jinan,Dean's Honor List,College of Engineering,Huanran Li
+nantong,Dean's List,College of Letters & Science,IVY Li
+liaoyang,Dean's Honor List,College of Engineering,Kangbo Li
+dalian,Dean's List,College of Letters & Science,Mengxun Li
+handan,Dean's List,College of Letters & Science,Peiwen Li
+taiyuan,Dean's Honor List,College of Engineering,Peter Li
+jining,Dean's List,College of Letters & Science,Runze Li
+xiamen,Dean's List,College of Letters & Science,Shang Li
+shanghai,Dean's Honor List,College of Engineering,Shunzhang Li
+taiyuan,Dean's List,College of Letters & Science,Simeng Li
+xiamen,Dean's List,College of Letters & Science,Siqi Li
+xi,Dean's Honor List,School of Human Ecology,Sitang Li
+wuxi,Dean's List,College of Agricultural and Life Sciences,Vera Li
+beijing,Dean's List,College of Letters & Science,Wei Li
+wuxi,Dean's List,College of Letters & Science,Wenqi Li
+nanjing,Dean's List,College of Letters & Science,Xiaoqi Li
+tianjin,Dean's List,College of Letters & Science,Xiaoshan Li
+qingdao,Dean's List,College of Letters & Science,Xiaxin Li
+dalian,Dean's High Honors,School of Human Ecology,Xinyi Li
+shanghai,Dean's List,College of Letters & Science,Yichen Li
+baoji,Dean's List,School of Education,Yijie Li
+hangzhou,Dean's List,College of Letters & Science,Yiqin Li
+beijing,Dean's List,College of Letters & Science,Yukun Li
+jiangmen,Dean's Honor List,College of Engineering,Zeming Li
+luoyang,Dean's List,College of Letters & Science,Zhaoqi Li
+beijing,Dean's List,College of Letters & Science,Zhelong Li
+chengdu,Dean's List,School of Education,Zigong Li
+beijing,Dean's List,College of Letters & Science,Ziyuan Li
+nantong,Dean's Honor List,College of Engineering,Zuoyi Li
+xiamen,Dean's List,College of Letters & Science,Zheming Lian
+yinchuan,Dean's List,College of Agricultural and Life Sciences,Guolong Liang
+shanghai,Dean's List,College of Letters & Science,RYAN Liang
+jinan,Dean's Honor List,College of Engineering,Rui Liang
+beijing,Dean's List,College of Letters & Science,Siyu Liang
+qingdao,Dean's List,School of Business,Su Liang
+guangzhou,Dean's List,College of Letters & Science,Zhaole Liang
+shenzhen,Dean's List,College of Agricultural and Life Sciences,AUSTIN Liao
+beijing,Dean's List,College of Agricultural and Life Sciences,Guanyu Liao
+guangzhou,Dean's List,College of Letters & Science,Eric Lin
+beijing,Dean's List,School of Business,Gengyu Lin
+ruian,Dean's Honor List,College of Engineering,Jiayi Lin
+hangzhou,Dean's List,College of Letters & Science,John Lin
+hangzhou,Dean's List,School of Business,Ting Lin
+ningbo,Dean's List,College of Letters & Science,Xiaoxuan Lin
+hangzhou,Dean's List,School of Education,Xinyu Lin
+guangzhou,Dean's List,College of Agricultural and Life Sciences,Yueai Lin
+suzhou,Dean's Honor List,College of Engineering,Yunhao Lin
+nanjing,Dean's Honor List,College of Engineering,Ziyu Lin
+changsha,Dean's List,College of Agricultural and Life Sciences,Binkai Liu
+mianyang,Dean's Honor List,College of Engineering,Borges Liu
+chongqing,Dean's List,College of Letters & Science,Claudia Liu
+xinyu,Dean's List,College of Letters & Science,Jiale Liu
+nanjing,Dean's High Honors,School of Human Ecology,Jiangran Liu
+beijing,Dean's List,College of Letters & Science,Jinmeng Liu
+chongqing,Dean's List,College of Letters & Science,Karen Liu
+beijing,Dean's List,College of Agricultural and Life Sciences,Manyuan Liu
+harbin,Dean's Honor List,College of Engineering,Mingyue Liu
+foshan,Dean's High Honors,School of Human Ecology,Qingyi Liu
+chengdu,Dean's Honor List,College of Engineering,Roice Liu
+shanghai,Dean's List,School of Business,Serena Liu
+beijing,Dean's List,College of Letters & Science,Shukai Liu
+shanghai,Dean's List,College of Letters & Science,Sihan Liu
+anshan,Dean's Honor List,College of Engineering,Songlin Liu
+shanghai,Dean's List,College of Letters & Science,Tz-Ruei Liu
+tianjin,Dean's Honor List,College of Engineering,Yiming Liu
+beijing,Dean's List,School of Education,Yiran Liu
+hengyang,Dean's List,School of Business,Yiting Liu
+beijing,Dean's List,School of Education,Yuange Liu
+beijing,Dean's Honor List,College of Engineering,Yuchen Liu
+chongqing,Dean's List,College of Letters & Science,Yuhan Liu
+jinan,Dean's List,College of Letters & Science,Yuhao Liu
+beijing,Dean's List,College of Letters & Science,Yusi Liu
+zhengzhou,Dean's Honor List,College of Engineering,Yuxin Liu
+beijing,Dean's List,College of Letters & Science,Yuxuan Liu
+shenzhen,Dean's List,College of Letters & Science,Xinjie Lu
+nanchang,Dean's List,College of Letters & Science,Yi Lu
+shenyang,Dean's List,College of Letters & Science,Yuchen Lu
+baoding,Dean's List,College of Letters & Science,Linyi Lyu
+dalian,Honor Roll,School of Pharmacy,Alex Ma
+taiyuan,Dean's High Honors,School of Human Ecology,Hedi Ma
+yangzhou,Dean's List,College of Agricultural and Life Sciences,Hengxuan Ma
+chengdu,Dean's List,School of Business,Rui Ma
+shenyang,Dean's Honor List,College of Engineering,Yibo Ma
+jinan,Dean's Honor List,College of Engineering,Yiqun Ma
+harbin,Dean's List,College of Letters & Science,Yuan Ma
+beijing,Dean's Honor List,College of Engineering,Zeyuan Ma
+nanjing,Dean's List,College of Letters & Science,Zhichao Ma
+shanghai,Dean's List,College of Letters & Science,Jian Mao
+shanghai,Dean's List,College of Letters & Science,Kaining Mao
+shanghai,Dean's List,College of Letters & Science,Yuchen Mao
+ningbo,Dean's Honor List,College of Engineering,Zhengjia Mao
+changchun,Dean's List,College of Letters & Science,Joe Mei
+xi,High Honor Roll,School of Pharmacy,Yusen Men
+guilin,Dean's List,College of Letters & Science,Doris Meng
+beijing,Dean's List,School of Business,Xiantao Meng
+shenzhen,Dean's List,School of Education,Yuhan Meng
+zhuhai,Dean's List,School of Business,Melaniya Miao
+shenyang,Dean's List,College of Letters & Science,Suran Min
+nanjing,Dean's List,College of Letters & Science,Yifan Mo
+beijing,Dean's List,College of Letters & Science,Hao Ni
+beijing,Dean's List,School of Business,Norah Shuxian Nie
+foshan,Dean's List,College of Letters & Science,Jiatong Ou
+guangzhou,Dean's List,College of Agricultural and Life Sciences,Andi Pan
+suqian,Dean's List,College of Letters & Science,Jiujiu Pan
+suzhou,Dean's List,College of Agricultural and Life Sciences,Ray Pan
+guangzhou,Dean's List,College of Agricultural and Life Sciences,STEPHEN Pan
+guangzhou,Dean's List,School of Education,Victoria Pan
+hangzhou,Dean's List,College of Letters & Science,Yiwen Pan
+shanghai,Dean's List,College of Letters & Science,Ziyi Pan
+qingdao,Dean's List,College of Letters & Science,Bo Pang
+beijing,Dean's List,College of Letters & Science,Yuan Pei
+yiwu,Dean's List,School of Education,Jingjing Peng
+zhuzhou,Dean's List,College of Letters & Science,Zizhe Peng
+beijing,Dean's List,College of Letters & Science,Xiaoyue Pu
+tianjin,Dean's List,College of Letters & Science,Junshuai Qi
+zhangjiagang,Dean's List,College of Letters & Science,Jinmeng Qian
+beijing,Dean's List,College of Letters & Science,Nuo Qian
+kunming,Dean's Honor List,College of Engineering,Weitai Qian
+shenzhen,Dean's List,College of Letters & Science,Yan Qian
+shenyang,Dean's Honor List,School of Human Ecology,Yinghan Qian
+hangzhou,Dean's Honor List,College of Engineering,Jier Qiu
+wuxi,Dean's List,College of Agricultural and Life Sciences,Ling Qiu
+shenzhen,Dean's Honor List,College of Engineering,Jing Qu
+dalian,Dean's List,College of Letters & Science,Sheeran Qu
+wuxi,Dean's List,College of Letters & Science,Tianxi Ren
+yantai,Dean's Honor List,College of Engineering,Xiaoxuan Ren
+suzhou,Dean's List,College of Letters & Science,Everette Rong
+tianjin,Dean's List,College of Letters & Science,Zijian Rong
+hangzhou,Dean's Honor List,College of Engineering,Kaibiao Ruan
+wuhan,Dean's List,College of Agricultural and Life Sciences,Kun Ruan
+hefei,Dean's List,College of Letters & Science,Camellia Rui
+wenzhou,Dean's List,College of Agricultural and Life Sciences,Gioia Sha
+beijing,Dean's Honor List,College of Engineering,Hele Sha
+beijing,Dean's List,College of Letters & Science,Tianyi Shan
+shanghai,Dean's List,College of Letters & Science,Yuxuan Shao
+huzhou,Dean's List,College of Letters & Science,Zhiheng Shao
+shanghai,Dean's List,College of Letters & Science,Shiyi Shen
+ningbo,Dean's List,College of Letters & Science,Tianshu Shen
+wuxi,Dean's List,College of Letters & Science,Weijie Shen
+beijing,Dean's List,College of Agricultural and Life Sciences,Wenqi Shen
+nanjing,Dean's Honor List,College of Engineering,Yi Shen
+changshu,Dean's List,College of Agricultural and Life Sciences,Yuanyuan Shen
+guilin,Dean's List,School of Education,Liqi Sheng
+yantai,Dean's List,College of Agricultural and Life Sciences,Sky Sheng
+tianshui,Dean's List,College of Letters & Science,Frank Shi
+xi,Dean's List,School of Education,Lindi Shi
+fuding,Dean's List,College of Letters & Science,Suo Shi
+beijing,Dean's Honor List,College of Engineering,Wenyue Shi
+guangzhou,Dean's List,College of Letters & Science,Yifan Shi
+yantai,Dean's List,College of Agricultural and Life Sciences,Haining Song
+chongqing,Dean's List,College of Letters & Science,Yuke Song
+shanghai,Dean's Honor List,College of Engineering,Zihao Song
+beijing,Dean's Honor List,College of Engineering,Huifeng Su
+chengdu,High Honor Roll,School of Pharmacy,Jinxiang Su
+hangzhou,Dean's List,College of Letters & Science,Lin Su
+beijing,Dean's List,School of Business,Edward Sun
+haikou,Dean's List,College of Letters & Science,Hannah Sun
+beijing,Dean's List,College of Letters & Science,Jiameng Sun
+shenyang,Dean's Honor List,College of Engineering,Jiarui Sun
+shanghai,Dean's List,College of Letters & Science,Mengzhen Sun
+beijing,Dean's List,College of Letters & Science,Minhao Sun
+zhenjiang,Dean's List,School of Business,Peiyue Sun
+shanghai,Dean's Honor List,School of Human Ecology,RUSSELL Sun
+beijing,Dean's List,College of Letters & Science,Xiaoyu Sun
+hangzhou,Dean's List,School of Education,Yuexin Sun
+guangzhou,Dean's List,College of Letters & Science,Congkai Tan
+jinhua,Dean's List,School of Education,Hao Tan
+foshan,Dean's List,College of Letters & Science,Yigeng Tan
+chongqing,Dean's Honor List,College of Engineering,Zhenghao Tan
+shenzhen,Dean's List,College of Letters & Science,Hanzhu Tang
+tianjin,Dean's Honor List,College of Engineering,James Tang
+guangzhou,Dean's Honor List,College of Engineering,Jingxuan Tang
+shanghai,Dean's List,College of Letters & Science,Xudong Tang
+xiamen,Dean's Honor List,College of Engineering,Zhengxiang Tang
+wenzhou,Dean's List,College of Letters & Science,Dajun Tao
+chengdu,Dean's List,College of Letters & Science,Madankui Tao
+changchun,Dean's Honor List,College of Engineering,JACKY Tian
+shanghai,Dean's List,College of Letters & Science,Ruiting Tong
+ningbo,Dean's Honor List,School of Human Ecology,Yi Tong
+hangzhou,Dean's List,College of Agricultural and Life Sciences,Hanxiao Wan
+wuhan,Dean's List,College of Agricultural and Life Sciences,Andrea Wang
+qingdao,Dean's Honor List,College of Engineering,Chengxin Wang
+harbin,Dean's Honor List,College of Engineering,Chenren Wang
+suzhou,Dean's List,College of Letters & Science,Chentao Wang
+urumqi,Dean's Honor List,School of Human Ecology,Claire Wang
+jinan,Dean's List,College of Letters & Science,Donglin Wang
+zhengzhou,Dean's List,School of Education,Elaine Wang
+changsha,Dean's List,College of Agricultural and Life Sciences,Eva Wang
+taiyuan,Dean's List,College of Agricultural and Life Sciences,Fangyu Wang
+shanghai,Dean's List,School of Business,Fei Wang
+shenzhen,Dean's List,College of Letters & Science,Han Wang
+beijing,Dean's Honor List,College of Engineering,Haomiao Wang
+changsha,Dean's List,College of Agricultural and Life Sciences,Hermione Wang
+hangzhou,Dean's Honor List,College of Engineering,Hongyi Wang
+kunming,Dean's List,College of Letters & Science,Jay Wang
+wuxi,Dean's Honor List,College of Engineering,Jiayu Wang
+beijing,Dean's List,College of Agricultural and Life Sciences,Jingrou Wang
+taiyuan,Dean's List,College of Letters & Science,Junheng Wang
+xuzhou,Dean's List,College of Letters & Science,Junru Wang
+suzhou,Dean's List,College of Letters & Science,Junshen Wang
+zhongshan,Dean's List,College of Letters & Science,Kecheng Wang
+hangzhou,Dean's List,College of Letters & Science,Lexie Wang
+tianjin,Dean's List,College of Letters & Science,Lezhi Wang
+beijing,Dean's List,College of Letters & Science,Maoze Wang
+hangzhou,Dean's List,College of Letters & Science,Mingke Wang
+beijing,Dean's List,College of Letters & Science,Muhan Wang
+lanzhou,Dean's List,College of Letters & Science,Peidong Wang
+dalian,Dean's Honor List,School of Human Ecology,Shuyu Wang
+beijing,Dean's List,College of Letters & Science,Tao Wang
+beijing,Dean's List,College of Letters & Science,Tiger Wang
+tianjin,Dean's List,College of Letters & Science,Wanjiang Wang
+beijing,Dean's List,College of Letters & Science,Weiheng Wang
+shanghai,Dean's List,College of Letters & Science,Weijie Wang
+guangzhou,Dean's List,College of Letters & Science,Xiaoduo Wang
+xi,Dean's List,College of Letters & Science,Xinyi Wang
+beijing,Dean's List,College of Letters & Science,Xueqi Wang
+luoyang,Dean's List,College of Letters & Science,Yiding Wang
+kunming,Dean's List,College of Letters & Science,Yiting Wang
+dalian,Dean's List,College of Letters & Science,Yiwen Wang
+beijing,Dean's List,College of Letters & Science,Yuanhang Wang
+beijing,Dean's List,College of Letters & Science,Yun Wang
+anshan,Dean's List,College of Letters & Science,Ziqi Wang
+shenzhen,Dean's List,College of Letters & Science,Penghai Wei
+changsha,Dean's Honor List,College of Engineering,Shujing Wei
+kunming,Dean's High Honors,School of Human Ecology,Wei Wei
+foshan,Dean's List,College of Letters & Science,Yifan Wei
+wuhan,Dean's List,College of Letters & Science,Yuqi Wei
+beijing,Dean's List,College of Letters & Science,Zeyu Wei
+beijing,Dean's Honor List,College of Engineering,Chuming Wen
+nanchang,Dean's List,College of Letters & Science,Vicky Wen
+beijing,Dean's Honor List,College of Engineering,Chi Wu
+wuxi,Dean's List,College of Letters & Science,Dongxia Wu
+beijing,Dean's List,School of Business,Forest Wu
+foshan,Dean's List,College of Letters & Science,Guande Wu
+quzhou,Dean's List,College of Letters & Science,Ivan Wu
+qingdao,Dean's Honor List,College of Engineering,Junwei Wu
+shanghai,Dean's List,College of Letters & Science,Karen Wu
+guangzhou,Dean's List,College of Letters & Science,Linda Wu
+foshan,Dean's List,College of Letters & Science,Minzhao Wu
+taiyuan,Dean's List,College of Letters & Science,Qingqi Wu
+hangzhou,Dean's List,College of Letters & Science,Tianze Wu
+shaoxing,Dean's Honor List,College of Engineering,Wei Wu
+jianyang,Dean's List,School of Business,Xi Wu
+jinzhou,Dean's List,College of Letters & Science,Xingyu Wu
+zhuhai,Dean's List,College of Letters & Science,Xintong Wu
+beijing,Dean's List,College of Letters & Science,Yi Wu
+shenzhen,Dean's Honor List,College of Engineering,Yifan Wu
+changchun,Dean's List,College of Letters & Science,Yiwen Wu
+beijing,Dean's List,College of Letters & Science,You Wu
+beijing,Dean's List,College of Letters & Science,Yue Wu
+beijing,Dean's List,College of Letters & Science,Mo Xiao
+shenzhen,Dean's List,School of Education,Qiqi Xiao
+guangzhou,Dean's Honor List,College of Engineering,Yan Xiao
+chengdu,Dean's List,College of Letters & Science,Wei Xie
+hangzhou,Dean's List,College of Letters & Science,Xiu Xie
+beijing,Dean's List,College of Letters & Science,Yuhan Xie
+guilin,Dean's High Honors,School of Human Ecology,Yuxin Xie
+hangzhou,Dean's Honor List,College of Engineering,Zeming Xie
+beijing,Dean's List,College of Letters & Science,Zengbo Xie
+shanghai,Dean's High Honors,School of Human Ecology,Shuqi Xiong
+zhenjiang,Dean's List,College of Agricultural and Life Sciences,Carol Xu
+beijing,Dean's List,College of Letters & Science,Chaolun Xu
+suzhou,Dean's List,College of Letters & Science,Cici Xu
+jinan,Dean's List,College of Letters & Science,Gaowei Xu
+wuxi,Dean's Honor List,College of Engineering,Ge Xu
+shanghai,Dean's List,College of Letters & Science,Hengjiali Xu
+beijing,Dean's Honor List,College of Engineering,Ke Xu
+wuhan,Dean's List,School of Education,Mingxi Xu
+beijing,Dean's List,College of Letters & Science,Qin Xu
+hefei,Dean's High Honors,School of Human Ecology,Qingyi Xu
+shanghai,Dean's List,College of Letters & Science,Shengyao Xu
+dongyang,Dean's List,College of Letters & Science,Suyao Xu
+shanghai,Dean's High Honors,School of Human Ecology,Tianchen Xu
+beijing,Dean's Honor List,College of Engineering,Wanyue Xu
+ningbo,Dean's High Honors,School of Human Ecology,Xinyan Xu
+shanghai,Dean's List,College of Letters & Science,Yien Xu
+nanjing,Dean's List,College of Letters & Science,Yuhan Xu
+nanjing,Dean's List,College of Letters & Science,Zhanqi Xu
+hangzhou,Dean's List,College of Letters & Science,Zhenyan Xu
+suzhou,Dean's List,College of Letters & Science,Zhiwen Xu
+shenzhen,Dean's List,College of Letters & Science,Zidu Xu
+beijing,Dean's Honor List,College of Engineering,Harry Xue
+zhenjiang,Dean's Honor List,College of Engineering,Claudia Yan
+guangzhou,Dean's List,College of Letters & Science,Thomas Yan
+beijing,Dean's List,College of Letters & Science,Tianlei Yan
+beijing,Dean's List,College of Letters & Science,Yuying Yan
+nanchang,Dean's List,College of Letters & Science,Chunya Yang
+beijing,Dean's List,School of Education,Dongheng Yang
+nanjing,Dean's List,College of Letters & Science,Jiazhi Yang
+beijing,Dean's List,College of Letters & Science,Liule Yang
+guangzhou,Dean's List,College of Letters & Science,Xiyu Yang
+beijing,Dean's Honor List,School of Nursing,Yaning Yang
+qingdao,Dean's List,College of Letters & Science,Yichen Yang
+chengdu,Dean's List,College of Letters & Science,Yijie Yang
+beijing,Dean's List,College of Letters & Science,Ziwei Yang
+ningbo,Dean's List,School of Education,Zixuan Yang
+qingdao,Dean's List,College of Letters & Science,Zonglin Yang
+beijing,Dean's List,College of Letters & Science,Arabella Yao
+shenzhen,Dean's List,College of Letters & Science,Ruofan Yao
+hangzhou,Dean's List,College of Letters & Science,Yao Yao
+kunshan,Dean's Honor List,College of Engineering,Yao Yao
+hangzhou,Dean's List,College of Letters & Science,Christina Ye
+dalian,Dean's List,College of Letters & Science,Yuhan Ye
+shanghai,Dean's List,College of Letters & Science,Zhaoyuan Ye
+nanjing,Dean's List,College of Letters & Science,Sirui Yi
+beijing,Dean's List,College of Letters & Science,Jonathan Yin
+shanghai,Dean's Honor List,College of Engineering,SAM Yin
+wuhan,Dean's List,College of Letters & Science,Yiyi Yin
+jinyun,Dean's List,College of Agricultural and Life Sciences,Colin Ying
+shanghai,Dean's List,School of Education,Jiaming You
+shanghai,Dean's Honor List,College of Engineering,Anna Yu
+hangzhou,Dean's List,College of Letters & Science,Chenzhi Yu
+wuhan,Dean's List,School of Business,Enyan Yu
+suzhou,Dean's List,College of Letters & Science,Jerry Yu
+shenzhen,Dean's Honor List,College of Engineering,Shuyan Yu
+zibo,Dean's List,College of Letters & Science,Zinan Yu
+beijing,Dean's Honor List,College of Engineering,Chongxi Yuan
+qingdao,Dean's Honor List,College of Engineering,Hao Yuan
+shanghai,Dean's List,College of Agricultural and Life Sciences,Sarah Yuan
+beijing,Dean's Honor List,College of Engineering,Shuai Yuan
+nanning,Dean's Honor List,College of Engineering,Stephen Yuan
+taiyuan,Dean's List,College of Letters & Science,Tianyuan Yuan
+zhangjiagang,Dean's List,College of Letters & Science,Yicheng Yuan
+huizhou,Dean's High Honors,School of Human Ecology,Xijia Yun
+chengdu,Dean's List,College of Letters & Science,Xiangyu Zeng
+nanjing,Dean's List,College of Agricultural and Life Sciences,Zhihong Zhan
+wuhan,Dean's Honor List,College of Engineering,Andy Zhang
+zunyi,Dean's List,College of Letters & Science,Daoxing Zhang
+beijing,Dean's List,College of Letters & Science,Defang Zhang
+ningbo,Dean's List,School of Business,Erzhen Zhang
+shanghai,Dean's List,College of Letters & Science,Gucen Zhang
+hangzhou,Dean's List,College of Letters & Science,Hanyang Zhang
+huhhot,Dean's List,College of Letters & Science,Hao Zhang
+shanghai,Dean's List,College of Agricultural and Life Sciences,Jenny Zhang
+xi,Dean's List,College of Letters & Science,Jerry Zhang
+taiyuan,Dean's List,College of Letters & Science,Jiaxuan Zhang
+beijing,Dean's List,College of Letters & Science,Jichen Zhang
+beijing,Dean's List,College of Letters & Science,Jieying Zhang
+beijing,Dean's List,School of Education,Jingyu Zhang
+xi,Dean's List,College of Letters & Science,Leon Zhang
+shanghai,Dean's Honor List,College of Engineering,Megan Zhang
+langfang,High Honor Roll,School of Pharmacy,Mengqi Zhang
+puyang,Dean's List,School of Business,Muyao Zhang
+chengdu,Dean's Honor List,College of Engineering,Pengxuan Zhang
+yangzhou,Dean's List,College of Letters & Science,Qiyu Zhang
+beijing,Dean's List,College of Letters & Science,Ruimin Zhang
+jinan,Dean's Honor List,College of Engineering,Ruixin Zhang
+hangzhou,Dean's List,College of Letters & Science,Sherine Zhang
+daqing,Dean's Honor List,College of Engineering,Shuai Zhang
+wuhan,Dean's Honor List,College of Engineering,Shuyan Zhang
+chongqing,Dean's List,School of Education,Tiannan Zhang
+shenyang,Dean's List,College of Letters & Science,Tianyi Zhang
+nantong,Dean's List,School of Business,Viola Zhang
+yancheng,Dean's Honor List,College of Engineering,Xuejian Zhang
+wenzhou,Dean's List,College of Letters & Science,Yichi Zhang
+chengdu,Dean's List,College of Letters & Science,Yidan Zhang
+shenzhen,Dean's List,College of Letters & Science,Yingzi Zhang
+zhengzhou,Dean's List,College of Letters & Science,Yipei Zhang
+beijing,Dean's List,School of Business,Yiru Zhang
+taiyuan,Dean's List,College of Letters & Science,Yuchen Zhang
+chengdu,Dean's List,College of Letters & Science,Yumin Zhang
+tianjin,Dean's List,College of Letters & Science,Yuxuan Zhang
+shenzhen,Dean's List,College of Agricultural and Life Sciences,Ziheng Zhang
+shanghai,Dean's List,College of Letters & Science,Ziyi Zhang
+beijing,Dean's Honor List,College of Engineering,Chenyi Zhao
+urumqi,Dean's List,College of Letters & Science,Guansen Zhao
+beijing,Dean's List,School of Business,Jiaming Zhao
+yixing,Dean's List,College of Letters & Science,Keer Zhao
+shanghai,Dean's List,College of Letters & Science,Meiqing Zhao
+beijing,Dean's List,College of Agricultural and Life Sciences,Phoebe Zhao
+shanghai,Dean's List,College of Letters & Science,Weiran Zhao
+binzhou,Dean's List,School of Education,Wenxu Zhao
+beijing,Dean's List,College of Letters & Science,Xinning Zhao
+beijing,Dean's List,College of Agricultural and Life Sciences,Yiming Zhao
+beijing,Dean's List,School of Education,ZHIYUN Zhao
+changde,Dean's List,College of Letters & Science,Zhiyi Zhao
+qingdao,Dean's Honor List,School of Human Ecology,Zhongqian Zhao
+meishan,Dean's List,College of Letters & Science,Zijie Zhao
+weihai,Dean's List,College of Letters & Science,Ziwei Zhao
+shenzhen,Dean's Honor List,College of Engineering,Xianzhe Zhen
+hefei,Dean's List,College of Letters & Science,Hairu Zheng
+harbin,Dean's List,College of Agricultural and Life Sciences,Haiyang Zheng
+guangzhou,Dean's List,College of Letters & Science,Jiaxi Zheng
+wuhan,Dean's Honor List,College of Engineering,Peilin Zheng
+guangzhou,Dean's Honor List,College of Engineering,Qinghong Zheng
+hangzhou,Dean's List,College of Letters & Science,Xianjie Zheng
+shenzhen,Dean's List,School of Education,Miaoya Zhong
+shanghai,Dean's List,College of Letters & Science,Shawn Zhong
+qingdao,Dean's Honor List,College of Engineering,Hao Zhou
+shanghai,Dean's List,College of Letters & Science,Huaxia Zhou
+beijing,Dean's Honor List,College of Engineering,Jason Zhou
+guangzhou,Dean's List,College of Letters & Science,Kyle Zhou
+chengdu,Dean's List,College of Letters & Science,Libin Zhou
+shenzhen,Dean's High Honors,School of Human Ecology,Lulu Zhou
+shanghai,Dean's Honor List,College of Engineering,Maggie Zhou
+chengdu,Dean's Honor List,College of Engineering,Mingguang Zhou
+changchun,Dean's Honor List,College of Engineering,Shaoheng Zhou
+guangzhou,Dean's List,College of Letters & Science,Siqi Zhou
+beijing,Dean's List,College of Letters & Science,Tao Zhou
+shenzhen,Dean's List,College of Letters & Science,Weipeng Zhou
+wuhan,Dean's List,School of Education,Wenqi Zhou
+suzhou,Dean's List,College of Letters & Science,Xiaoqi Zhou
+shanghai,Dean's List,College of Agricultural and Life Sciences,Xinyi Zhou
+guangzhou,Dean's List,College of Letters & Science,Yanxi Zhou
+nanjing,Dean's Honor List,College of Engineering,Yaoyue Zhou
+shenzhen,Dean's List,College of Letters & Science,Yi Zhou
+shanghai,Dean's Honor List,School of Human Ecology,Zhinuo Zhou
+zhenjiang,Dean's List,College of Letters & Science,Junyan Zhu
+wuhan,Dean's List,College of Letters & Science,Keqinhua Zhu
+shouguang,Dean's Honor List,School of Human Ecology,Liying Zhu
+xiangyang,Dean's List,College of Letters & Science,Micky Zhu
+shaoxing,Dean's List,College of Letters & Science,NAOMI Zhu
+beijing,Dean's Honor List,College of Engineering,Pengfei Zhu
+shenzhen,Dean's Honor List,College of Engineering,Ruize Zhu
+shenzhen,Dean's Honor List,College of Engineering,Sean Zhu
+guangzhou,Dean's High Honors,School of Human Ecology,Stella Zhu
+lanzhou,Dean's Honor List,College of Engineering,Tianxiang Zhu
+yangzhou,Dean's List,College of Letters & Science,Xiaohan Zhu
+wuxi,Dean's List,College of Agricultural and Life Sciences,Xiaowei Zhu
+beijing,Dean's High Honors,School of Human Ecology,Yannan Zhu
+suzhou,Honor Roll,School of Pharmacy,Yufei Zhu
+beijing,Dean's Honor List,College of Engineering,Zishuai Zou
+dalian,Dean's List,College of Letters & Science,Zonghao Zou
+hongkong,Dean's Honor List,College of Engineering,ANSON Chan
+hongkong,Dean's List,College of Letters & Science,Jaikar Chawla
+hongkong,Dean's List,College of Agricultural and Life Sciences,Christie Cheng
+hongkong,Dean's List,College of Letters & Science,Timothy Cheung
+hongkong,Dean's List,College of Letters & Science,Haidee Chu
+hongkong,Dean's List,College of Agricultural and Life Sciences,Christie Leung
+hongkong,Dean's List,School of Business,Tin Yau Tsang
+kaohsiung,Dean's List,College of Agricultural and Life Sciences,Eric Chen
+taoyuan,Dean's List,College of Letters & Science,Wei-Ting Chen
+taipei,Honor Roll,School of Pharmacy,Tina Cheng
+taipei,Dean's List,College of Letters & Science,Fiona Lee
+pingdong,Dean's List,School of Education,Hana Lee
+xinbei,Dean's List,College of Agricultural and Life Sciences,Jenny Lee
+taichung,Dean's List,College of Agricultural and Life Sciences,Amy Lin
+taichung,Dean's Honor List,College of Engineering,Philip Lin
+taichung,Dean's Honor List,College of Engineering,Chi-Min Ni
+taipei,Dean's List,College of Agricultural and Life Sciences,Simone Shen
+taipei,Dean's Honor List,College of Engineering,Hao-Yu Yang
+xinbei,Dean's List,College of Letters & Science,Tzu-Hsuan Yang
+taipei,Dean's List,College of Letters & Science,Ting-Yun Yen
