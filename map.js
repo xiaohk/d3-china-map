@@ -49,8 +49,9 @@ d3.csv("./data/award_table.csv", function(error, reward){
         }
     }
 
-    // Get the coordinate of each city in the reward table
+    // Get the coordinate and chinese name of each city in the reward table
     for (var city in cities){
+        cities[city]["hanzi"] = coord[city]["hanzi"]
         cities[city]["coord"] = coord[city]["coord"].reverse()
     }
 
@@ -59,6 +60,7 @@ d3.csv("./data/award_table.csv", function(error, reward){
     var city_array = d3.entries(cities).sort(function(a, b) {
         return b["value"].count - a["value"].count
     })
+    console.log(city_array)
 
     // Create a scale for circle area
     var areaScale = d3.scaleSqrt()
@@ -82,14 +84,16 @@ d3.csv("./data/award_table.csv", function(error, reward){
         .style("stroke-width", ".1px")
         .on("mouseover",function(d) {
             d3.select(this)
-            .style("stroke-opacity", "0.5")
-            .style("stroke", "#606060")
-            .style("stroke-width", "1px")
+                .style("stroke-opacity", "0.5")
+                .style("stroke", "#606060")
+                .style("stroke-width", "1px")
+            showInfoText(d)
         })
         .on("mouseout",function(d){
             d3.select(this)
-            .style("stroke", "white")
-            .style("stroke-width", ".3px")
+                .style("stroke", "white")
+                .style("stroke-width", ".3px")
+            hideInfoText(d)
         })
     
     // Add a legend layer
@@ -112,7 +116,7 @@ d3.csv("./data/award_table.csv", function(error, reward){
     legend.append("text")
         .attr("y", function(d) { return -2 * areaScale(d) })
         .attr("dy", "1.3em")
-        .text(d3.format(".1s"))
+        .text(d3.format("i"))
         .style("font", "7px sans-serif")
         .style("text-anchor", "middle")
         .style("fill", "#606060")
@@ -125,6 +129,56 @@ d3.csv("./data/award_table.csv", function(error, reward){
         .style("font", "16px serif")
         .style("fill", "#606060")
         .text("Chinese Students on UW-Madison Dean's List (2018 Spring)")
+
+    // Add info text box
+    var text_pos = [width - 300, height - 300]
+    var info_texts = []
+
+    for (var i = 0; i < 3; i ++){
+        console.log(i)
+        info_texts.push(
+            svg.append("text")
+                .attr("x", text_pos[0])
+                .attr("y", text_pos[1])
+                .attr("dy", i * 20)
+                .attr("class", "info_text_hidden")
+                .text("City: kunming")
+        )
+    }
+
+    function showInfoText(d){
+        /*
+         * When mouse over any circles, display details in the info text
+         * 
+         * Args:
+         *      d: one key value pair object from data()
+         */
+        
+        // Load specific text for each line
+        info_texts[0].text("City: " + d["key"][0].toUpperCase() + 
+            d["key"].substring(1) + " (" + d["value"]["hanzi"] + ")")
+
+        info_texts[1].text("Coord: " + d["value"].coord[1] + "° N, " +
+            d["value"].coord[0] + "° E")
+
+        info_texts[2].text("Student Counts: " + d["value"].count)
+
+        for (var i = 0; i < 3; i ++){
+            info_texts[i].attr("class", "info_text_show")
+        }
+    }
+
+    function hideInfoText(d){
+        /*
+         * When mouse out any circles, hide details in the info text
+         *
+         * Args:
+         *      d: one key value pair object from data()
+         */
+        for (var i = 0; i < 3; i ++){
+            info_texts[i].attr("class", "info_text_hidden")
+        }
+    }
 
 })})})
 
